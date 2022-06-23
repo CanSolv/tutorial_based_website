@@ -83,3 +83,7 @@ p {
   float: left;
   width: 50px;
 }
+
+a {
+  color:rgb(234, 255, 0);
+}
